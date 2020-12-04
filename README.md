@@ -1,1 +1,1 @@
-# 6.-Mostrar_tipo_variable_string_una_letra_python
+# Este programa muestra en pantalla el valor de una variable string de una sola letra
