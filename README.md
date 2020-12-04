@@ -1,0 +1,1 @@
+# 6.-Mostrar_tipo_variable_string_una_letra_python
